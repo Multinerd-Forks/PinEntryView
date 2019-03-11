@@ -1,16 +1,16 @@
 PODS:
-  - PinEntryView (1.0.9)
+  - PinEntryView (4.0.0)
 
 DEPENDENCIES:
   - PinEntryView (from `../`)
 
 EXTERNAL SOURCES:
   PinEntryView:
-    :path: ../
+    :path: "../"
 
 SPEC CHECKSUMS:
-  PinEntryView: 07a1a23c5385b968f508bf4043bbdbcdb18c0ac2
+  PinEntryView: f13542b5de0f47859e47c2ea11f780479014dca8
 
 PODFILE CHECKSUM: 8dad1e25edbc8ed88c7c34ce56d1130da97bd91f
 
-COCOAPODS: 1.3.1
+COCOAPODS: 1.6.0
